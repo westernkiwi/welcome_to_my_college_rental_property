@@ -1,0 +1,10 @@
+@charset "utf-8";
+header {
+    text-align:center; margin-bottom:2vw; margin-left:15vw; margin-right:15vw; font-size:5vw; font-family:DungeonChunk; color:#FFFFFF
+}
+body {
+	background: #000000
+}
+k{
+	align:center; margin-left: 5vw; margin-right: 5vw;font-size:3vw; font-family:DungeonChunk; color:#FFFFFF
+}
